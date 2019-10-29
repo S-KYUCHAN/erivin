@@ -1,6 +1,7 @@
 ---
 layout: page
-title: ERICA & KEVIN\n Our memory space
+title: ERICA & KEVIN
+     Our memory space
 tags: [ERICA, KEVIN, Inhwa, Kyuchan]
 date: 2019-10-29
 comments: false
