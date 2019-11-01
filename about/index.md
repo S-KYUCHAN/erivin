@@ -7,7 +7,7 @@ date: 2010-10-29
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://S-KYUCHAN.github.io/erivin"><b>ERIVIN</b></a> For the time whenever we want to recall the past</center>
 
 ## Features
 * Daily Life
